@@ -40,6 +40,7 @@ I enjoy transforming raw data into actionable business insights through SQL, GA4
 ### BI
 
 - Looker Studio
+- Power BI
 - KPI Dashboards
 - Reporting Automation
 - Business Intelligence
