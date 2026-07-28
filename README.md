@@ -72,7 +72,6 @@ Cleaned 3,000+ patient-safety and insurance records, built BigQuery KPI tables t
 - Python
 - Machine Learning
 - AI for Data Analytics
-- Power BI
 
 ---
 
